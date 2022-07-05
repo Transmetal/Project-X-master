@@ -6,4 +6,4 @@ Reconnaisance Tool
 - git clone https://github.com/Transmetal/Project-X-master
 - ls
 - cd Project-X-master
-- 
+- ./install.sh
